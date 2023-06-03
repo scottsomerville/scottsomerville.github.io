@@ -12,9 +12,6 @@ main:
 
   - title: "Media Features"
     url: /media/
-
-  - title: "Presentations"
-    url: /presentations/
     
   - title: "Poster Presentations"
     url: /posters/
