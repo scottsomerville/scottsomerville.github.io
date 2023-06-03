@@ -1,8 +1,17 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
-    
+
   - title: "CV"
     url: /cv/
   
+  - title: "Publications"
+    url: /publications/
+
+  - title: "Media Features"
+    url: /media/
+
+  - title: "Presentations"
+    url: /presentations/
+    
+  - title: "Poster presentations"
+    url: /posters/
