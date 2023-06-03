@@ -7,11 +7,14 @@ main:
   - title: "Publications"
     url: /publications/
 
+  - title: "Working Papers"
+    url: /workingPapers/
+
   - title: "Media Features"
     url: /media/
 
   - title: "Presentations"
     url: /presentations/
     
-  - title: "Poster presentations"
+  - title: "Poster Presentations"
     url: /posters/
