@@ -23,3 +23,7 @@ Interests
 * Agriculture and the environment
 * Agricultural policy
 
+Job Market Candidate 2023
+======
+I am on the 2023 academic job market. Please feel free to contact me with any inquiries via ssomerville@ucdavis.edu
+
