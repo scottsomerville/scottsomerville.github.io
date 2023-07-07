@@ -10,6 +10,12 @@ redirect_from:
 {% include base_path %}
 
 
+## Economic Considerations for Navel Orangeworm Management in Almond Orchards
+
+Article published in West Coast Nut in July 2023. Co-authored with Brittney Goodrich.
+
+[Link to July 2023 issue of West Coast Nut](https://issuu.com/myaglife/docs/wcn_july_2023_e)
+
 ## The vital role of byproduct use in California dairy feed rations
 
 Article published in Progressive Diary magazine on October 7th, 2021. Co-authored with Daniel A. Sumner, James Fadel, Ziyang Fu, and Jarrett D. Hart.
