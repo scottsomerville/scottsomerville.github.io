@@ -9,6 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
+## Crop Choice and Nitrate Pollution in Groundwater
+
+Poster presented at the AAEA Annual Meeting in Washington DC on July 25th, 2023. Co-authored with Brittney Goodrich.
+
+[View poster here](http://scottsomerville.github.io/files/aaea_groundwater_nitrates.pdf)
+
+
+
 ## Cost and Returns of Navel Orangeworm Management
 
 Poster presented at the Almond Board of California Annual Conference in Sacramento, California in December 2022. Co-authored with Brittney Goodrich.
