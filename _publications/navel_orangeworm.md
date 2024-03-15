@@ -2,7 +2,7 @@
 title: "Economics of Navel Orangeworm Management in Almond and Pistachio Orchards"
 collection: publications
 permalink: /publication/navel_orangeworm
-excerpt: 'Navel Orangeworm (NOW) infestations damage tree nuts, reduce grower revenue, require costly management practices to control, and threaten food safety and trade. We estimate that from 2018 through 2021, almond and pistachio growers spent an average of $393 and $262 per bearing acre, respectively, on winter sanitation and pesticide sprays targeting NOW. These costs are equivalent to 7.8% of almond and 3.7% of pistachio revenues.' 
+excerpt: 'Navel Orangeworm (NOW) infestations damage tree nuts, reduce grower revenue, require costly management practices to control, and threaten food safety and trade. We estimate that from 2018 through 2021, almond and pistachio growers spent an average of \\$393 and \\$262 per bearing acre, respectively, on winter sanitation and pesticide sprays targeting NOW. These costs are equivalent to 7.8% of almond and 3.7% of pistachio revenues.' 
 date: 2023-12-21
 venue: 'ARE Update'
 paperurl: 'https://s.giannini.ucop.edu/uploads/pub/2023/12/21/v27n2_2.pdf'
