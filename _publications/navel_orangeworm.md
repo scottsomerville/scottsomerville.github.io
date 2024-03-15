@@ -6,7 +6,7 @@ excerpt: 'Navel Orangeworm (NOW) infestations damage tree nuts, reduce grower re
 date: 2023-12-21
 venue: 'ARE Update'
 paperurl: 'https://s.giannini.ucop.edu/uploads/pub/2023/12/21/v27n2_2.pdf'
-citation: 'Somerville, Scott and Brittney K. Goodrich. 2023. Economics of Navel Orangeworm Management in Almond and Pistachio Orchards. ARE Update 27(2): 5--8. University of California Giannini Foundation of Agricultural Economics.'
+citation: 'Somerville, Scott and Brittney K. Goodrich. 2023. "Economics of Navel Orangeworm Management in Almond and Pistachio Orchards." ARE Update 27(2): 5–8. University of California Giannini Foundation of Agricultural Economics.'
 ---
 
 Navel Orangeworm (NOW) is the top pest of California almonds and pistachios and affects other crops like walnuts, pomegranates, and figs. Female NOW moths lay their eggs on the fruiting bodies of tree nuts, and the resulting larvae burrow through the shell and eat the kernel. NOW damage is linked to aflatoxin contamination (a carcinogen) threatening food safety and exports to highly regulated key markets, such as the European Union. 
