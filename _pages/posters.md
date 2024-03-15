@@ -11,7 +11,7 @@ redirect_from:
 
 ## Crop Choice and Nitrate Pollution in Groundwater
 
-Poster presented at the AAEA Annual Meeting in Washington DC on July 25th, 2023. Co-authored with Brittney Goodrich.
+Poster presented at the AAEA Annual Meeting in Washington DC on July 25th, 2023. Co-authored with Jeffrey Hadachek.
 
 [View poster here](http://scottsomerville.github.io/files/aaea_groundwater_nitrates.pdf)
 
