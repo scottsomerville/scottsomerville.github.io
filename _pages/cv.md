@@ -11,7 +11,7 @@ redirect_from:
 
 [Download Scott's academic CV here](http://scottsomerville.github.io/files/scott_somerville_cv.pdf)
 
-# 
+
 
 # Résumé
 
