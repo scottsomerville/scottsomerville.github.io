@@ -19,7 +19,7 @@ Nitrate pollution threatens human health and ecosystems in many regions of the w
 [Download paper here](http://scottsomerville.github.io/files/Nitrates_in_groundwater.pdf)
 
 
-#
+# 
 # Spatially Targeted and Differentiated Pesticide Policy: The Case of the Groundwater Protection Program
 ### Co-authored with Brittney Goodrich
 
@@ -30,7 +30,7 @@ When market-based instruments are impractical for addressing agricultural non-po
 [Download paper here](http://scottsomerville.github.io/files/GWPA.pdf)
 
 
-#
+# 
 # Does Mating Disruption Decrease Insecticide Use? Evidence from Navel Orangeworm Management in California Tree Nut Orchards
 ### Co-authored with Brittney Goodrich.
 
@@ -43,7 +43,7 @@ California tree nut growers face several production challenges going forward, in
 This paper leverages pesticide-use data from the California Department of Pesticide Regulations, the most comprehensive dataset of pesticide-use in the world. In our econometric estimation, we use the spatial first difference method proposed by Druckenmiller and Hsiang (2019) in order to leverage variation in pesticide use between neighboring orchards. 
 
 
-#
+# 
 # Economics of By-Product Feeds in Dairy Rations, With Implications for Resource Use and Environmental Consequences
 ### Co-authored with Jarrett Hart and Daniel A. Sumner.
 
