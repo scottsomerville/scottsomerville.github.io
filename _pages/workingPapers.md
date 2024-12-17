@@ -9,26 +9,36 @@ redirect_from:
 
 {% include base_path %}
 
-# The Impact of Land Use on Water Quality: Evidence from California Wells
-### Co-authored with Pierre Mérel and Jeffrey Hadachek.
+# Economics of Anaerobic Soil Disinfestation in Strawberry Production
+### Co-authored with Rachael Goodhue
 
 ### Abstract
 
-Nitrate pollution threatens human health and ecosystems in many regions of the world. Although scientists agree that nitrogen compounds from human activity, notably agriculture, enter the groundwater system, empirical estimates of the impacts of land use on nitrate concentrations in well water are still lacking. We provide evidence of such impacts by combining nitrate concentration measurements from about 6,000 groundwater wells with a data set of remotely sensed land uses for California over the period 2007--2023. Results show that a 10 percentage point increase in the share of land used to grow high-nitrogen crops within 500 meters of a well relative to undeveloped land is associated with a 12\% increase in nitrate concentrations, while a 10 percentage point increase in the share of land used for low-intensity urban development is associated with a 10\% increase. Local dairy cattle populations also meaningfully contribute to nitrate pollution. However, conditioning on initial nitrate measurements, we find limited evidence that human activity affects nitrate concentrations a decade later. 
+Growers face increasingly stringent regulatory restrictions on the use of pre-plant soil fumigation, a crucial input in many fruit and vegetable farming systems, driving a search for effective non-chemical alternatives. Anaerobic soil disinfestation (ASD) has emerged as a promising strategy for managing soilborne pests and pathogens in strawberry production. This study evaluates the economic viability of ASD in strawberry farming using partial budget analysis and data from field trials conducted in California during the 2021–2022 and 2022–2023 seasons. Our analysis compares net returns (gross revenues minus analyzed costs) across ASD treatments and control plots, with and without chemical fumigation. Results from the 2021–2022 trial reveal no meaningful difference in yields from ASD-treated plots compared to control plots. Findings from the 2022–2023 trial show that ASD treatments significantly increased strawberry yields relative to non-fumigated control plots but yields from ASD with fumigation plots did not significantly differ from fumigated control plots. High ASD material, labor, and fumigation costs and low yields in the 2021–2022 trial resulted in negative and significantly smaller net returns from ASD treatments relative to the control. In the 2022–2023 trial, high yields among ASD plots resulted in positive net returns, but ASD treatment costs remained impractically high, leading to meaningfully smaller net returns from ASD treatments compared to the controls.
 
-[Download paper here](http://scottsomerville.github.io/files/Nitrates_in_groundwater.pdf)
+[Download paper here](http://scottsomerville.github.io/files/Anaerobic_Soil_Disinfestation.pdf)
 
 
  
-# Spatially Targeted and Differentiated Pesticide Policy: The Case of the Groundwater Protection Program
+# How Effective is Pesticide Regulation? Evidence from the Groundwater Protection Program
 ### Co-authored with Brittney Goodrich
 
 ### Abstract
 
-When market-based instruments are impractical for addressing agricultural non-point source pollution, economists recommend regulations that incorporate farm management practices and environmental services to mitigate pollution. In this paper, we examine the adjustments farmers make to their pesticide programs in response to a policy delineating two types of regulated regions that differ in the required practices for pesticide usage based on local environmental conditions. Empirically, this study addresses the Groundwater Protection Program, which created a natural experiment through abrupt and uneven changes in the regulations governing the application of seven pesticides. Utilizing twenty-five years of field-level data, we estimate the program's impacts on the use of regulated active ingredients and the consequent environmental effects in the perennial crops almonds, citrus, and grapes using a difference-in-differences regression framework. Our analysis reveals that the program led to meaningful reductions in the use of regulated active ingredients in fields in regulated regions. However, the extent to which almond, citrus, and grape growers responded to the program varied substantially across crops. Additionally, we find evidence that the program induced almond growers to alter the mix and quantity of active ingredients used in orchards, resulting in no change in an aggregate measure of environmental impact that considers the potential harm of pesticides to water systems, human health, and wildlife. On the other hand, we find evidence that the environmental impact of regulated and alternative ingredients decreased in citrus groves and grape vineyards relative to control fields.
+When market-based instruments are impractical for addressing agricultural non-point source pollution, economists recommend regulations that incorporate farm management practices and environmental services to mitigate pollution. In this paper, we examine the adjustments farmers make to their pesticide programs in response to a policy delineating two types of regulated regions that differ in the required practices for pesticide usage based on local environmental conditions. Empirically, this study addresses the Groundwater Protection Program, which created a natural experiment through abrupt and uneven changes in the regulations governing the application of seven pesticides. Utilizing twenty-five years of field-level data, we estimate the program’s impacts on the use of regulated active ingredients and the consequent environmental effects in the perennial crops almonds, citrus, and grapes using a difference-in-differences regression framework. Our analysis reveals that the program led to meaningful reductions in the use of regulated active ingredients in fields in regulated regions, but the effects varied substantially across crops. To test if growers replaced regulated ingredients with alternative pesticides, we examine the impact of the program on the environmental impact—an index that considers the potential harm of pesticides to water systems, human health, and wildlife—of alternative active ingredients per planted acre and find no significant effects. In a final set of regressions, we use the environmental impact of regulated and alternative active ingredients per planted acre as our dependent variable and find that the program led to significant reductions in citrus orchards and grape vineyards but no change in almond orchards.
 
 [Download paper here](http://scottsomerville.github.io/files/GWPA.pdf)
 
+
+
+# The Impact of Land Use on Water Quality: Evidence from California Wells
+### Co-authored with Pierre Mérel and Jeffrey Hadachek
+
+### Abstract
+
+Nitrate pollution threatens human health and ecosystems in many regions of the world. Although scientists agree that nitrogen compounds from human activity, notably agriculture,enter groundwater systems, empirical estimates of the impacts of land use on nitrate concentrations in well water are still lacking. We provide evidence of such impacts by combining nitrate concentration measurements from 6,016 groundwater wells with remotely sensed California land use data from 2007–2023. Results show that a 10 percentage point increase in the share of land used to grow high nitrogen hazard index crops within 500 meters of a well relative to undeveloped land is associated with a 12% increase in nitrate concentrations, while the same increase in low-intensity urban development is associated with a 10% increase. Local cattle populations also contribute to nitrate pollution. However, conditioning on initial nitrate measurements, we find limited evidence that human activity affects nitrate concentrations a decade later.
+
+[Download paper here](http://scottsomerville.github.io/files/Nitrates_in_groundwater.pdf)
 
 
 # Does Mating Disruption Decrease Insecticide Use? Evidence from Navel Orangeworm Management in California Tree Nut Orchards
