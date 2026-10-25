@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. and job market candidate in the Department of [Agricultural and Resource Economics](https://are.ucdavis.edu/people/grad-students/phd/scott-somerville/) at the University of California, Davis. My dissertation research centers on the economics of agricultural production and groundwater pollution. Other work focuses on the economics of Navel Orangeworm pest management in tree nuts, the economic and resource consequences of by-product feeds in dairy rations, and the economic impact of anaerobic digesters on dairy farms. 
+I am a Market Development Manager and Bryant Christie Inc. I am a Ph.D. graduate of the Department of [Agricultural and Resource Economics](https://are.ucdavis.edu/people/grad-students/phd/scott-somerville/) at the University of California, Davis. My dissertation research centers on the economics of agricultural production and groundwater pollution. Other work focuses on the economics of Navel Orangeworm pest management in tree nuts, the economic and resource consequences of by-product feeds in dairy rations, and the economic impact of anaerobic digesters on dairy farms. 
 
 I was raised on a dairy farm in central Scotland. I have a Bachelor’s degree in Animal Science from the University of Glasgow and a Masters degree in Agricultural Economics from the University of Reading. Before moving to Davis, I worked for agribusinesses in the United Kingdom and volunteered for agricultural associations such as the Scottish Association of Young Farmers, the Moredun Institute, and the National Sheep Association of Scotland.
 
